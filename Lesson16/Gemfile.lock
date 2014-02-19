@@ -1,0 +1,12 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    minitest (5.2.3)
+    rainbow (2.0.0)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  minitest
+  rainbow
